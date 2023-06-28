@@ -1,18 +1,20 @@
-# <Título del proyecto> - <Año>
+# HEDG-BOT - 2023
 < Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
 
 < Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
-  
+Hedgebot (HEDG-BOT) nació tras observar la naturaleza, en especial, los erizos, de los cuales, rescatamos su mecanismo de defensa, las puas.
+Mezclando este pequeño animal, y su representación más famosa, sonic; llegamos a nuestro battlebot, el cual con un brillante color azul y pernos 
+en su carcasa, busca asimilarse a nuestros objetos de inspiración, contando con un arma giratoria, un rodillo con tornillos, que podría ser perfectamente
+la representación de sonic haciendose "bolita" para atacar a sus enemigos. 
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
+- Camila Rojas - FCFM
+- Giovanni Magnani - FCFM
+- Silvana - FAU
+
 
 
 ## Descripción del proyecto
