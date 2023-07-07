@@ -1,5 +1,5 @@
 # Diagrama electromecánico
 
-![DE](/diagrama/DFuncionalidad.jpg)
+![DE](/diagrama/Dfuncionalidad.jpg)
 
 
