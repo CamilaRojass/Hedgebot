@@ -1,5 +1,5 @@
 # HEDG-BOT - 2023
-Battlebot realizado en otoño de 2023 para el curso "Battlebots: Tu primera maquina de pelea" de la Universidad de Chile. Trabajo realizado colaborativamente entre estudiantes de la facultad de Cs. Fisicas y Matematicas y estudiantes de diseño de la Facultad de Arquitectura y Urbanismo.
+Battlebot realizado en otoño de 2023 para el curso "Battlebots: Tu primera máquina de pelea" de la Universidad de Chile. Trabajo realizado colaborativamente entre estudiantes de la facultad de Cs. Fisicas y Matematicas y estudiantes de diseño de la Facultad de Arquitectura y Urbanismo.
 
 ### Historia del Battlebot
 
