@@ -1,7 +1,5 @@
 # HEDG-BOT - 2023
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
-
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Battlebot realizado en otoño de 2023 para el curso "Battlebots: Tu primera maquina de pelea" de la Universidad de Chile. Trabajo realizado colaborativamente entre estudiantes de la facultad de Cs. Fisicas y Matematicas y estudiantes de diseño de la Facultad de Arquitectura y Urbanismo.
 
 ### Historia del Battlebot
 
@@ -22,7 +20,7 @@ Hedgebot (HEDG-BOT), nació a partir de la observación/analisis de los erizos y
 Nuestra estrategia ofensiva consta de un rodillo metalico, perforado por pernos con tuercas el cual gracias a un motor DC (reciclado de un battlebot anterior) y un mecanimos de poleas y correas, gira a gran velocidad.
 
 #### Defensiva
-La 
+Nuestra estrategia defensiva comprende una carcasa metalica de gran espesor (metal reciclado) moldeado alrededor de nuestro robot, protegiendo sus ruedas y partes electronicas. La carcasa contaba con pernos con tuercas representando los pinchos del erizo.
 
 ### Diagrama funcional
 < Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
