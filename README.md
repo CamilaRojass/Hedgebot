@@ -263,3 +263,10 @@ if (peticion.indexOf('/RON') != -1) {
 ```
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
+
+### Otras dificultades enfrentadas
+En general los errores que ocurrieron mas fecuentemente fueron piezas de impresión 3D que se rompieron 
+![WhatsApp Image 2023-07-03 at 11 22 20 PM](https://github.com/CamilaRojass/Hedgebot/assets/90356056/1262cd88-9163-4f19-843e-f3a722763d7e)
+![WhatsApp Image 2023-07-03 at 11 22 45 PM](https://github.com/CamilaRojass/Hedgebot/assets/90356056/aa7281c6-20ca-452e-aca6-c699aa6266af)
+
+Además enfrentamos problemas en la pelea final porque dejaron de llegar las señales al motor del arma. 
