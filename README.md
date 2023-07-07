@@ -23,7 +23,7 @@ Nuestra estrategia ofensiva consta de un rodillo metalico, perforado por pernos 
 Nuestra estrategia defensiva comprende una carcasa metalica de gran espesor (metal reciclado) moldeado alrededor de nuestro robot, protegiendo sus ruedas y partes electronicas. La carcasa contaba con pernos con tuercas representando los pinchos del erizo.
 
 ### Diagrama funcional
-![D](/diagrama/Diagrama funcionalidad.jpg)
+![D](/diagrama/DiagramaRobot.jpg)
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
