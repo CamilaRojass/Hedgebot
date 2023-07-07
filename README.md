@@ -8,9 +8,11 @@ Hedgebot (HEDG-BOT), nació a partir de la observación/analisis de los erizos y
 ![H](/multimedia/FotoHedgebot.jpeg)
 
 ## Integrantes
-- Camila Rojas - FCFM
 - Giovanni Magnani - FCFM
+- Camila Rojas - FCFM
 - Silvana Olivares - FAU
+
+  ![N](/multimedia/Nosotros.jpeg)
 
 ## Descripción del proyecto
   
