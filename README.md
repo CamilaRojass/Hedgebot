@@ -5,7 +5,7 @@ Battlebot realizado en otoño de 2023 para el curso "Battlebots: Tu primera maqu
 
 Hedgebot (HEDG-BOT), nació a partir de la observación/analisis de los erizos y su mecanimo de defensa, las puas. Mezclando este pequeño animal, con su representación más famosa, sonic; llegamos a nuestro battlebot, el cual con un brillante color azul y pernos en su carcasa, busca asimilarse a nuestros objetos de inspiración, contando con un arma giratoria, un rodillo con tornillos, como reinterpretación del ataque famoso de sonic, donde se hace bolita y gira a gran velocidad. 
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/FotoHedgebot.jpeg)
 
 ## Integrantes
 - Camila Rojas - FCFM
