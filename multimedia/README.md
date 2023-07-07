@@ -2,7 +2,9 @@
 
 - Fotos de avance (en orden cronológico)
 
-![A1](/multimedia/Avance1.jpeg)
+![A1](/multimedia/Avance1.jpeg
+
+![A2](/multimedia/Avance2.jpeg)
 
 ![A2](/multimedia/RobotAvance.jpeg)
   
