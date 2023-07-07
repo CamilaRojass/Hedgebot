@@ -9,4 +9,7 @@ Subir al repositorio todos los modelos y planos utilizados para construir el bat
 
 - ![imagen](https://github.com/CamilaRojass/Hedgebot/assets/137975797/375fea2d-c222-499a-8209-14a9db6a4ad0)
 
+- ![imagen](https://github.com/CamilaRojass/Hedgebot/assets/137975797/698e23a4-be89-4634-98cd-22b297985809)
+
+
 
