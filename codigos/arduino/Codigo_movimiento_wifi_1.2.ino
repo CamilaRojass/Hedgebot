@@ -73,6 +73,7 @@ void setup() {
 
 void loop() 
 {
+ //Potencia de rodillo (dependen de data3)
    if (data3 == 0) {
     digitalWrite(D3, LOW);
   }
