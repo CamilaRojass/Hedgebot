@@ -5,6 +5,8 @@
 
 ### Historia del Battlebot
 
+Hedgebot (HEDG-BOT), nació a partir de la observación/analisis de los erizos y su mecanimo de defensa, las puas. Mezclando este pequeño animal, con su representación más famosa, sonic; llegamos a nuestro battlebot, el cual con un brillante color azul y pernos en su carcasa, busca asimilarse a nuestros objetos de inspiración, contando con un arma giratoria, un rodillo con tornillos, como reinterpretación del ataque famoso de sonic, donde se hace bolita y gira a gran velocidad. 
+
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
 
 ## Integrantes
@@ -13,15 +15,14 @@
 - Silvana Olivares - FAU
 
 ## Descripción del proyecto
-Hedgebot (HEDG-BOT), es una reinterpretación de los erizos en forma de battlebot, el cual rescata el mecanimos de defensa de estos pequeños animalitos, las puas. Mezclando este pequeño animal, y su representación más famosa, sonic; llegamos a nuestro battlebot, el cual con un brillante color azul y pernos en su carcasa, busca asimilarse a nuestros objetos de inspiración, contando con un arma giratoria, un rodillo con tornillos, que podría ser perfectamente la transformación del ataque de sonic cuando se hace bolita.
   
 ### Estrategia utilizada
   
 #### Ofensiva
-< Explicar brevemente el arma utilizada.>
+Nuestra estrategia ofensiva consta de un rodillo metalico, perforado por pernos con tuercas el cual gracias a un motor DC (reciclado de un battlebot anterior) y un mecanimos de poleas y correas, gira a gran velocidad.
 
 #### Defensiva
-< Explicar el modo de defensa del robot.>
+La 
 
 ### Diagrama funcional
 < Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
