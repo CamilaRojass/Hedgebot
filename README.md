@@ -27,7 +27,7 @@ Nuestra estrategia defensiva comprende una carcasa metalica de gran espesor (met
 ### Diagrama funcional
 ![D](/diagrama/DiagramaRobot.jpg)
 
-### Diagrama de conecciones electricas
+### Diagrama de conexiones electricas
 ![WhatsApp Image 2023-06-27 at 5 40 07 PM](https://github.com/CamilaRojass/Hedgebot/assets/90356056/7f604866-7d07-4d1d-962f-6514eec8d5c5)
 
 ### Código de Arduino IDE
