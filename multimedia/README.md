@@ -14,4 +14,4 @@
 
 - Vídeo de demostración/funcionamiento
 
-![M](/multimedia/Movimiento.jpeg)
+![M](/multimedia/Movimiento.mp4)
